@@ -1,4 +1,4 @@
-3# tinyraytracer-java
+# tinyraytracer-java
 
 Understandable RayTracing in 305 lines of plain Java
 
