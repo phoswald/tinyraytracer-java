@@ -9,7 +9,7 @@ This is a port of [tinyraytracer by ssloy](https://github.com/ssloy/tinyraytrace
     $ mvn clean verify
     $ java -cp target/tinyraytracer.jar com.github.phoswald.tinyraytracer.Raytracer
 
-## GraalVM (
+## GraalVM (using Docker)
 
     $ mvn clean verify
     $ docker run -it --rm \
