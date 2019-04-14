@@ -1,4 +1,4 @@
-package tinyraytracer;
+package com.github.phoswald.tinyraytracer;
 
 import static java.lang.Math.sqrt;
 
